@@ -1,0 +1,21 @@
+.tab-heading {
+  font-size: 22px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  cursor: pointer;
+  background-color: transparent;
+  border: 0px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.btn-active {
+  color: #fec653;
+  border-color: #fec653;
+  border-bottom: 4px;
+  border-left: 0px;
+  border-top: 0px;
+  border-right: 0px;
+  border-style: solid;
+  padding: 10px;
+}

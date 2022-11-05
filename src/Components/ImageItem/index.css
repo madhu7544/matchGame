@@ -1,0 +1,14 @@
+.thumbnail-container {
+  margin: 5px;
+  margin-top: 0px;
+}
+
+.btn-style {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+
+.thumbnail-img {
+  height: 15vh;
+}
